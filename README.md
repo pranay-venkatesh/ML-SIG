@@ -40,3 +40,6 @@ Towards Data Science is generally a brilliant website for a bunch of resources i
 
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
 
+Neural Network Visualisations:
+
+http://alexlenail.me/NN-SVG/LeNet.html
